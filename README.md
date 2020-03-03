@@ -32,5 +32,5 @@ yes
 
 ;;read the scheme created by UDF
 /file/read-macros
-pp.scm
+TUI_command_with_max_t_loc-top.scm
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
